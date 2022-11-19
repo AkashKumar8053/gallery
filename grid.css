@@ -1,0 +1,46 @@
+.container{
+    display: grid;
+    grid-template-columns: 300px 300px ;
+    grid-template-rows: 300px 150px;
+    gap: 20px;
+    margin-left:400px ;
+
+}
+.items1{
+    background-image: url('/pexels-photo-208821.jpeg');
+    background-size: 100% 100%;
+}
+.items2{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+}
+.items3{
+    background-image: url('/44b208e04a532e7077071d32baebf666.jpeg');
+    background-size:cover ;
+}
+.items4{
+    background-image: url('/thailand-elephant-sunset-nature-68550.jpeg');
+    background-size: 100% 100%;
+}
+.Ak1{
+    background-image: url('/chimpanzee-sitting-sad-mammal.jpg');
+    background-size: cover;
+}
+.Ak2{
+    background-image: url('/penguins-emperor-antarctic-life-52509.jpeg');
+    background-size: cover;
+}
+.Ak3{
+    background-image: url('/pexels-photo-2295744.jpeg');
+    background-size: cover;
+}
+.Ak4{
+    background-image: url('/pexels-photo-943907.jpeg');
+    background-size: cover;
+}
+h1{
+    margin-left: 400px;
+    font-size: 45px;
+}
+
